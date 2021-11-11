@@ -1,0 +1,8 @@
+{
+  "storage_address": "/home/max_o/Programming_projects/Python/server_archiver/archive/",
+  "remote_user": "horizon",
+  "remote_host_address": "192.168.1.10",
+  "destination_address": "/home/horizon/server_archiver/archive/",
+  "stdout_log_address": "/home/max_o/Programming_projects/Python/server_archiver/output_logs/",
+  "stderr_log_address": "/home/max_o/Programming_projects/Python/server_archiver/error_logs/"
+}
